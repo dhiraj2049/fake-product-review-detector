@@ -1,4 +1,4 @@
-# Review Shield — Fake Product Review Detector
+## Fake Product Review Detector
 
 ## About This Project
 
